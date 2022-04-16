@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eab5772-9c35-45cb-9f39-b6f19729779b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+    <list default="true" id="1eab5772-9c35-45cb-9f39-b6f19729779b" name="Changes" comment="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,26 @@
       <option name="presentableId" value="Default" />
       <updated>1650049348798</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta.">
+      <created>1650144304536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650144304536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -93,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta." />
   </component>
 </project>
