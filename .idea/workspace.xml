@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eab5772-9c35-45cb-9f39-b6f19729779b" name="Changes" comment="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta.">
+    <list default="true" id="1eab5772-9c35-45cb-9f39-b6f19729779b" name="Changes" comment="configuração de mensagens de erros no arquivo login.html e configuração de mensagens personalizadas no arquivo forms.py.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -86,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650144304536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="configuração de mensagens de erros no arquivo login.html e configuração de mensagens personalizadas no arquivo forms.py.">
+      <created>1650147388592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650147388592</updated>
+    </task>
+    <task id="LOCAL-00003" summary="configuração de mensagens de erros no arquivo login.html e configuração de mensagens personalizadas no arquivo forms.py.">
+      <created>1650147691200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650147691200</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -113,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta." />
-    <option name="LAST_COMMIT_MESSAGE" value="Inclusão do forms.py, ajustes de validações da mesma e mensagens de sucesso ao criar a conta." />
+    <MESSAGE value="configuração de mensagens de erros no arquivo login.html e configuração de mensagens personalizadas no arquivo forms.py." />
+    <option name="LAST_COMMIT_MESSAGE" value="configuração de mensagens de erros no arquivo login.html e configuração de mensagens personalizadas no arquivo forms.py." />
   </component>
 </project>
