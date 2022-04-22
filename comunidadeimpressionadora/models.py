@@ -13,10 +13,10 @@ class Usuarios(database.Model):
 
 
 class Post(database.Model):
-    id = database.Column(database.integer, primary_key=True)
+    id = database.Column(database.Integer, primary_key=True)
     titulo = database.Column(database.String, nullable=False)
     corpo =  database.Column(database.Text, nullable=False)
-    data_criacao = database.Column(database.Datetime, nullable=False, default=datetime.utcnow())
+    data_criacao = database.Column(database.DateTime, nullable=False, default=datetime.utcnow())
     id_usuario = database.Column(database.Integer, database.ForeignKey('usuarios.id'), nullable=False)
 
 '''class Curso_aluno(database.Model):
